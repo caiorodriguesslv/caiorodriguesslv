@@ -1,10 +1,10 @@
-### Olá! Eu sou o Caio Rodrigues 🖐️
+### Hi, I'm Caio Rodrigues 🖐️
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiorodriguessv/) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caiordgsv/)
 
-## Tecnologias que utilizo:
+## Technologies I use on a daily basis:
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
